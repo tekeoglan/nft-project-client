@@ -1,0 +1,26 @@
+.header {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 3px solid black;
+  padding: 5px;
+}
+
+.header a {
+  font-weight: 700;
+  font-size: x-large;
+  padding: 5px;
+}
+
+.header a:hover {
+  color: #189AB4;
+  border: 1px solid #189AB4;
+  border-radius: 5px;
+}
+
+.button {
+  height: 1.5rem;
+  color: #189AB4;
+  border-radius: 5px;
+}
